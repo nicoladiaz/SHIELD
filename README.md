@@ -22,7 +22,7 @@ Military RF interception material may be used to record the RF activity in the c
 
 We will try to build a safe data collection tool.
 
-Each mission need to be prepared in a safe environment, with a predefined list of the hardware that will be used.
+Each mission needs to be prepared in a safe environment, with a predefined list of the hardware that will be used.
 In this safe environment (NGO headquarter), the encryption keys will be generated, and decryption keys will be kept safe.
 The list of involved hardware will be used in the configuration of the system built for the mission.
 
